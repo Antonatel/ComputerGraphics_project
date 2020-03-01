@@ -1,0 +1,24 @@
+newmtl bomb:Mat_0
+illum 4
+Kd 0.42 0.28 0.20
+Ka 0.40 0.40 0.40
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl bomb:Mat_2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.40 0.40 0.40
+Tf 1.00 1.00 1.00
+map_Kd texture_2_11563080508590297124.png
+bump texture_2_11563080508590297124_NRM.jpg 
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks texture_2_11563080508590297124_SPEC.jpg
+newmtl bomb:Mat_4
+illum 4
+Kd 1.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00

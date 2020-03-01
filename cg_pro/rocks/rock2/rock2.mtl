@@ -1,0 +1,10 @@
+newmtl rock2:Mat_0
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.40 0.40 0.40
+Tf 1.00 1.00 1.00
+map_Kd texture_0_6195987693227547908.png
+bump texture_0_6195987693227547908_NRM.jpg 
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks texture_0_6195987693227547908_SPEC.jpg

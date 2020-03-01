@@ -1,0 +1,30 @@
+﻿  show.cpp
+c:\users\93152\source\repos\cg_pro\cg_pro\show.cpp(235): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\93152\source\repos\cg_pro\cg_pro\show.cpp(236): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\93152\source\repos\cg_pro\cg_pro\show.cpp(237): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\93152\source\repos\cg_pro\cg_pro\show.cpp(242): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\users\93152\source\repos\cg_pro\cg_pro\show.cpp(308): warning C4305: “参数”: 从“double”到“float”截断
+c:\users\93152\source\repos\cg_pro\cg_pro\show.cpp(311): warning C4553: “==”: 未使用表达式结果；是否打算使用“=”?
+c:\users\93152\source\repos\cg_pro\cg_pro\show.cpp(531): warning C4244: “-=”: 从“double”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+c:\users\93152\source\repos\cg_pro\cg_pro\show.cpp(533): warning C4244: “+=”: 从“double”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+c:\users\93152\source\repos\cg_pro\cg_pro\show.cpp(536): warning C4244: “-=”: 从“double”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+c:\users\93152\source\repos\cg_pro\cg_pro\show.cpp(641): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\93152\source\repos\cg_pro\cg_pro\show.cpp(642): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\93152\source\repos\cg_pro\cg_pro\show.cpp(646): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\users\93152\source\repos\cg_pro\cg_pro\show.cpp(647): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\users\93152\source\repos\cg_pro\cg_pro\show.cpp(649): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\93152\source\repos\cg_pro\cg_pro\show.cpp(650): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\93152\source\repos\cg_pro\cg_pro\show.cpp(659): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  cg_pro.vcxproj -> C:\Users\93152\source\repos\cg_pro\Debug\cg_pro.exe

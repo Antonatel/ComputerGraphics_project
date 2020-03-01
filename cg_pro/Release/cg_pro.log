@@ -1,0 +1,166 @@
+﻿  glad.c
+  show.cpp
+c:\users\93152\source\repos\cg_pro\cg_pro\show.cpp(235): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\93152\source\repos\cg_pro\cg_pro\show.cpp(236): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\93152\source\repos\cg_pro\cg_pro\show.cpp(237): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\93152\source\repos\cg_pro\cg_pro\show.cpp(242): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\users\93152\source\repos\cg_pro\cg_pro\show.cpp(308): warning C4305: “参数”: 从“double”到“float”截断
+c:\users\93152\source\repos\cg_pro\cg_pro\show.cpp(311): warning C4553: “==”: 未使用表达式结果；是否打算使用“=”?
+c:\users\93152\source\repos\cg_pro\cg_pro\show.cpp(531): warning C4244: “-=”: 从“double”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+c:\users\93152\source\repos\cg_pro\cg_pro\show.cpp(533): warning C4244: “+=”: 从“double”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+c:\users\93152\source\repos\cg_pro\cg_pro\show.cpp(536): warning C4244: “-=”: 从“double”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+c:\users\93152\source\repos\cg_pro\cg_pro\show.cpp(641): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\93152\source\repos\cg_pro\cg_pro\show.cpp(642): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\93152\source\repos\cg_pro\cg_pro\show.cpp(646): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\users\93152\source\repos\cg_pro\cg_pro\show.cpp(647): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\users\93152\source\repos\cg_pro\cg_pro\show.cpp(649): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\93152\source\repos\cg_pro\cg_pro\show.cpp(650): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\93152\source\repos\cg_pro\cg_pro\show.cpp(659): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+msvcprt.lib(locale0_implib.obj) : error LNK2001: 无法解析的外部符号 @__security_check_cookie@4
+glfw3.lib(win32_monitor.obj) : error LNK2001: 无法解析的外部符号 @__security_check_cookie@4
+glfw3.lib(wgl_context.obj) : error LNK2001: 无法解析的外部符号 @__security_check_cookie@4
+glfw3.lib(egl_context.obj) : error LNK2001: 无法解析的外部符号 @__security_check_cookie@4
+glfw3.lib(osmesa_context.obj) : error LNK2001: 无法解析的外部符号 @__security_check_cookie@4
+glfw3.lib(init.obj) : error LNK2001: 无法解析的外部符号 @__security_check_cookie@4
+glfw3.lib(win32_window.obj) : error LNK2001: 无法解析的外部符号 @__security_check_cookie@4
+glfw3.lib(win32_joystick.obj) : error LNK2001: 无法解析的外部符号 @__security_check_cookie@4
+glfw3.lib(win32_init.obj) : error LNK2001: 无法解析的外部符号 @__security_check_cookie@4
+glad.obj : error LNK2001: 无法解析的外部符号 @__security_check_cookie@4
+glfw3.lib(context.obj) : error LNK2001: 无法解析的外部符号 @__security_check_cookie@4
+glfw3.lib(window.obj) : error LNK2001: 无法解析的外部符号 @__security_check_cookie@4
+glfw3.lib(input.obj) : error LNK2001: 无法解析的外部符号 @__security_check_cookie@4
+glad.obj : error LNK2001: 无法解析的外部符号 __imp__strncmp
+glfw3.lib(context.obj) : error LNK2001: 无法解析的外部符号 __imp__strncmp
+glfw3.lib(input.obj) : error LNK2001: 无法解析的外部符号 __imp__strncmp
+glfw3.lib(egl_context.obj) : error LNK2001: 无法解析的外部符号 __imp__strncmp
+glfw3.lib(osmesa_context.obj) : error LNK2001: 无法解析的外部符号 __imp__free
+glfw3.lib(monitor.obj) : error LNK2001: 无法解析的外部符号 __imp__free
+glfw3.lib(vulkan.obj) : error LNK2001: 无法解析的外部符号 __imp__free
+glfw3.lib(wgl_context.obj) : error LNK2001: 无法解析的外部符号 __imp__free
+glfw3.lib(egl_context.obj) : error LNK2001: 无法解析的外部符号 __imp__free
+glfw3.lib(win32_window.obj) : error LNK2001: 无法解析的外部符号 __imp__free
+glfw3.lib(win32_joystick.obj) : error LNK2001: 无法解析的外部符号 __imp__free
+glfw3.lib(win32_init.obj) : error LNK2001: 无法解析的外部符号 __imp__free
+glfw3.lib(win32_monitor.obj) : error LNK2001: 无法解析的外部符号 __imp__free
+glad.obj : error LNK2001: 无法解析的外部符号 __imp__free
+glfw3.lib(window.obj) : error LNK2001: 无法解析的外部符号 __imp__free
+glfw3.lib(input.obj) : error LNK2001: 无法解析的外部符号 __imp__free
+glfw3.lib(init.obj) : error LNK2001: 无法解析的外部符号 __imp__free
+glad.obj : error LNK2001: 无法解析的外部符号 _strstr
+glfw3.lib(context.obj) : error LNK2001: 无法解析的外部符号 _strstr
+glfw3.lib(win32_joystick.obj) : error LNK2001: 无法解析的外部符号 _strstr
+glad.obj : error LNK2001: 无法解析的外部符号 __imp____stdio_common_vsscanf
+glfw3.lib(context.obj) : error LNK2001: 无法解析的外部符号 __imp____stdio_common_vsscanf
+glad.obj : error LNK2001: 无法解析的外部符号 __imp__malloc
+show.obj : error LNK2001: 无法解析的外部符号 ___CxxFrameHandler3
+msvcprt.lib(locale0_implib.obj) : error LNK2001: 无法解析的外部符号 ___CxxFrameHandler3
+show.obj : error LNK2001: 无法解析的外部符号 __imp__ftell
+show.obj : error LNK2001: 无法解析的外部符号 ___std_exception_destroy
+show.obj : error LNK2001: 无法解析的外部符号 "void __cdecl operator delete[](void *)" (??_V@YAXPAX@Z)
+show.obj : error LNK2001: 无法解析的外部符号 __imp__fputc
+show.obj : error LNK2001: 无法解析的外部符号 __imp__srand
+show.obj : error LNK2001: 无法解析的外部符号 __imp__fflush
+show.obj : error LNK2001: 无法解析的外部符号 "void * __cdecl operator new(unsigned int)" (??2@YAPAXI@Z)
+msvcprt.lib(locale0_implib.obj) : error LNK2001: 无法解析的外部符号 "void * __cdecl operator new(unsigned int)" (??2@YAPAXI@Z)
+show.obj : error LNK2001: 无法解析的外部符号 __imp__fclose
+show.obj : error LNK2001: 无法解析的外部符号 __imp__realloc
+glfw3.lib(input.obj) : error LNK2001: 无法解析的外部符号 __imp__realloc
+glfw3.lib(win32_monitor.obj) : error LNK2001: 无法解析的外部符号 __imp__realloc
+glfw3.lib(monitor.obj) : error LNK2001: 无法解析的外部符号 __imp__realloc
+show.obj : error LNK2001: 无法解析的外部符号 __imp__fseek
+show.obj : error LNK2001: 无法解析的外部符号 "void __stdcall `eh vector destructor iterator'(void *,unsigned int,unsigned int,void (__thiscall*)(void *))" (??_M@YGXPAXIIP6EX0@Z@Z)
+show.obj : error LNK2001: 无法解析的外部符号 ___std_exception_copy
+show.obj : error LNK2001: 无法解析的外部符号 __imp__rand
+show.obj : error LNK2001: 无法解析的外部符号 __imp__fgetc
+show.obj : error LNK2001: 无法解析的外部符号 "void __cdecl operator delete(void *,unsigned int)" (??3@YAXPAXI@Z)
+msvcprt.lib(locale0_implib.obj) : error LNK2001: 无法解析的外部符号 "void __cdecl operator delete(void *,unsigned int)" (??3@YAXPAXI@Z)
+show.obj : error LNK2001: 无法解析的外部符号 __imp___unlock_file
+show.obj : error LNK2001: 无法解析的外部符号 __imp___lock_file
+show.obj : error LNK2001: 无法解析的外部符号 __imp__fwrite
+show.obj : error LNK2001: 无法解析的外部符号 __imp__fopen_s
+show.obj : error LNK2001: 无法解析的外部符号 __imp__strtol
+show.obj : error LNK2001: 无法解析的外部符号 __imp__fgetpos
+show.obj : error LNK2001: 无法解析的外部符号 "void * __cdecl operator new[](unsigned int)" (??_U@YAPAXI@Z)
+show.obj : error LNK2001: 无法解析的外部符号 __imp__setvbuf
+show.obj : error LNK2001: 无法解析的外部符号 __imp__ldexp
+show.obj : error LNK2001: 无法解析的外部符号 __imp___time64
+show.obj : error LNK2001: 无法解析的外部符号 __imp__ungetc
+show.obj : error LNK2001: 无法解析的外部符号 ___std_terminate
+show.obj : error LNK2001: 无法解析的外部符号 __imp__feof
+show.obj : error LNK2001: 无法解析的外部符号 __imp__fsetpos
+show.obj : error LNK2001: 无法解析的外部符号 "const type_info::`vftable'" (??_7type_info@@6B@)
+show.obj : error LNK2001: 无法解析的外部符号 __imp__fread
+show.obj : error LNK2001: 无法解析的外部符号 __imp___fseeki64
+show.obj : error LNK2001: 无法解析的外部符号 __imp___wassert
+show.obj : error LNK2001: 无法解析的外部符号 __imp___invalid_parameter_noinfo_noreturn
+show.obj : error LNK2001: 无法解析的外部符号 __imp___get_stream_buffer_pointers
+LINK : error LNK2001: 无法解析的外部符号 _mainCRTStartup
+glfw3.lib(wgl_context.obj) : error LNK2001: 无法解析的外部符号 ___security_cookie
+glfw3.lib(egl_context.obj) : error LNK2001: 无法解析的外部符号 ___security_cookie
+glfw3.lib(osmesa_context.obj) : error LNK2001: 无法解析的外部符号 ___security_cookie
+msvcprt.lib(locale0_implib.obj) : error LNK2001: 无法解析的外部符号 ___security_cookie
+glfw3.lib(win32_window.obj) : error LNK2001: 无法解析的外部符号 ___security_cookie
+glfw3.lib(win32_joystick.obj) : error LNK2001: 无法解析的外部符号 ___security_cookie
+glfw3.lib(win32_init.obj) : error LNK2001: 无法解析的外部符号 ___security_cookie
+glfw3.lib(win32_monitor.obj) : error LNK2001: 无法解析的外部符号 ___security_cookie
+glfw3.lib(context.obj) : error LNK2001: 无法解析的外部符号 ___security_cookie
+glfw3.lib(window.obj) : error LNK2001: 无法解析的外部符号 ___security_cookie
+glfw3.lib(input.obj) : error LNK2001: 无法解析的外部符号 ___security_cookie
+glfw3.lib(init.obj) : error LNK2001: 无法解析的外部符号 ___security_cookie
+glfw3.lib(window.obj) : error LNK2001: 无法解析的外部符号 __imp__strncpy
+glfw3.lib(input.obj) : error LNK2001: 无法解析的外部符号 __imp__strncpy
+glfw3.lib(win32_joystick.obj) : error LNK2001: 无法解析的外部符号 __imp__strncpy
+glfw3.lib(vulkan.obj) : error LNK2001: 无法解析的外部符号 __imp__calloc
+glfw3.lib(wgl_context.obj) : error LNK2001: 无法解析的外部符号 __imp__calloc
+glfw3.lib(egl_context.obj) : error LNK2001: 无法解析的外部符号 __imp__calloc
+glfw3.lib(osmesa_context.obj) : error LNK2001: 无法解析的外部符号 __imp__calloc
+glfw3.lib(win32_joystick.obj) : error LNK2001: 无法解析的外部符号 __imp__calloc
+glfw3.lib(win32_init.obj) : error LNK2001: 无法解析的外部符号 __imp__calloc
+glfw3.lib(win32_monitor.obj) : error LNK2001: 无法解析的外部符号 __imp__calloc
+glfw3.lib(monitor.obj) : error LNK2001: 无法解析的外部符号 __imp__calloc
+glfw3.lib(window.obj) : error LNK2001: 无法解析的外部符号 __imp__calloc
+glfw3.lib(input.obj) : error LNK2001: 无法解析的外部符号 __imp__calloc
+glfw3.lib(init.obj) : error LNK2001: 无法解析的外部符号 __imp__calloc
+glfw3.lib(win32_window.obj) : error LNK2001: 无法解析的外部符号 __imp__calloc
+glfw3.lib(win32_joystick.obj) : error LNK2001: 无法解析的外部符号 _memset
+glfw3.lib(win32_init.obj) : error LNK2001: 无法解析的外部符号 _memset
+glfw3.lib(win32_monitor.obj) : error LNK2001: 无法解析的外部符号 _memset
+glfw3.lib(window.obj) : error LNK2001: 无法解析的外部符号 _memset
+glfw3.lib(input.obj) : error LNK2001: 无法解析的外部符号 _memset
+glfw3.lib(init.obj) : error LNK2001: 无法解析的外部符号 _memset
+glfw3.lib(win32_window.obj) : error LNK2001: 无法解析的外部符号 _memset
+glfw3.lib(win32_joystick.obj) : error LNK2001: 无法解析的外部符号 __fltused
+glfw3.lib(win32_monitor.obj) : error LNK2001: 无法解析的外部符号 __fltused
+glfw3.lib(monitor.obj) : error LNK2001: 无法解析的外部符号 __fltused
+glfw3.lib(window.obj) : error LNK2001: 无法解析的外部符号 __fltused
+glfw3.lib(input.obj) : error LNK2001: 无法解析的外部符号 __fltused
+glfw3.lib(init.obj) : error LNK2001: 无法解析的外部符号 __fltused
+glfw3.lib(win32_window.obj) : error LNK2001: 无法解析的外部符号 __fltused
+glfw3.lib(input.obj) : error LNK2001: 无法解析的外部符号 __imp__strcspn
+glfw3.lib(input.obj) : error LNK2001: 无法解析的外部符号 __imp__strspn
+glfw3.lib(input.obj) : error LNK2001: 无法解析的外部符号 __imp__strtoul
+glfw3.lib(input.obj) : error LNK2001: 无法解析的外部符号 __dtoul3
+glfw3.lib(input.obj) : error LNK2001: 无法解析的外部符号 __ultod3
+glfw3.lib(input.obj) : error LNK2001: 无法解析的外部符号 _memcpy
+glfw3.lib(win32_monitor.obj) : error LNK2001: 无法解析的外部符号 _memcpy
+glfw3.lib(init.obj) : error LNK2001: 无法解析的外部符号 __imp____stdio_common_vsprintf
+glfw3.lib(win32_joystick.obj) : error LNK2001: 无法解析的外部符号 __imp____stdio_common_vsprintf
+glfw3.lib(win32_window.obj) : error LNK2001: 无法解析的外部符号 __dtoui3
+glfw3.lib(win32_joystick.obj) : error LNK2001: 无法解析的外部符号 __imp__qsort
+glfw3.lib(monitor.obj) : error LNK2001: 无法解析的外部符号 __imp__qsort
+glfw3.lib(monitor.obj) : error LNK2001: 无法解析的外部符号 __libm_sse2_pow_precise
+glfw3.lib(monitor.obj) : error LNK2001: 无法解析的外部符号 _memmove
+msvcprt.lib(locale0_implib.obj) : error LNK2001: 无法解析的外部符号 _atexit
+C:\Users\93152\source\repos\cg_pro\Release\cg_pro.exe : fatal error LNK1120: 60 个无法解析的外部命令
